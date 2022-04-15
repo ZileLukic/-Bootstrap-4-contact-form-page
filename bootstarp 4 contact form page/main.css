@@ -1,0 +1,16 @@
+.form {
+    margin: 50px 0;
+}
+.bg-lighht {
+    background-color: #333 !important;
+}
+.navbar-light.navbar-brand {
+    color: #fff;
+}
+.navbar-light .navbar-brand:focus, .bg-light .navbar-brand:hover {
+    color: #f90;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #f60;
+}
+.navbar-light .navbar-nav .nav-link
